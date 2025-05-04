@@ -1,5 +1,5 @@
-defaultProject: priceline-propensity
+defaultProject: priceline-project-1
 defaultLocation: US
-defaultDataset: dataform
+defaultDataset: Google_Propensity_Score
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.0
